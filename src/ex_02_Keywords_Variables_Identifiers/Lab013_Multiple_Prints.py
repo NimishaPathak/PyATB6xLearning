@@ -1,0 +1,1 @@
+print("Amit", 123, "test")
